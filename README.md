@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roland-of-gilead
 - 👀 I’m interested in hardware design and verification with Verilog, System Verilog
-- 🌱 I’m currently learning write Python.
+- 🌱 I’m currently learning to write Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
